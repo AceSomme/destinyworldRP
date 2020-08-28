@@ -1,0 +1,17 @@
+{
+  "name": "destiny-worldrp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "nexe": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AceSomme",
+  "license": "ISC"
+}
